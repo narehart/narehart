@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @narehart
-- 👀 I’m interested in frontend engineering, art, learning Japanese, gaming, crypto, and more.
+- 👀 I’m interested in frontend engineering, art, learning Japanese, gaming, AI, and more.
 - 🌱 I’m currently learning Japanese. Working my way through N4.
 - 💞️ I’m looking to collaborate on games, open source projects, etc.
 - 📫 Reach me by opening a PR on this repo :smile:
